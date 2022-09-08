@@ -1,3 +1,4 @@
 # hello-world
 
-Creating an empy repository for my class
+Creating an empty repository for my class
+Here are some edits
